@@ -1,0 +1,41 @@
+.jumbotron{
+    background-image: url('../img/1.jpg');
+    width: 1600px;
+    height: 1602px;
+    position: relative;
+    background-size: cover;
+};
+
+.box-vertikal{
+    padding-top: 150px;
+    float:center;
+    margin-top: -150px;
+    margin-bottom: -800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.strip-vertikal{
+    background-color: #ec9700;
+}
+.text-vertikal{
+    text-align: left;
+    transform: rotate(90deg);
+    text-transform: uppercase;
+    font-size:12px; 
+
+}
+.gambar{
+    width: 800px;
+    float: right;
+}
+
+.nav-link{
+    font-size: 14px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.yellowbutton{
+    border-radius: 30px;
+    font-size: 14px;
+    
+}
