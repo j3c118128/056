@@ -1,0 +1,17 @@
+#sticky-footer {
+    flex-shrink: none;
+  }
+.bg-form{
+ margin-top: 50px;
+  background-color: #2065c5;
+}
+.info{
+  text-align: center;
+  color: black;
+  font-size: 16pt;
+  text-transform: uppercase;
+  font-family: Oswald;
+  position: relative;
+  padding-left: 600px;
+
+}
